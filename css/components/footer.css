@@ -1,0 +1,27 @@
+footer {
+  background-color: var(--light-tertiary-color);
+}
+
+footer .footer1 {
+  text-align: center;
+  padding: 6rem 2rem 1rem;
+  max-width: 47rem;
+}
+
+footer .footer1 .footer-contato span {
+  display: block;
+  font-weight: 500;
+}
+
+footer .footer1 ul li {
+  display: inline-block;
+}
+
+footer .footer1 ul a {
+  display: inline-block;
+  padding: 1rem;
+}
+
+footer .footer1 .footer-copyright {
+  font-size: 1.4rem;
+}
